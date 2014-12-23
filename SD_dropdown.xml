@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension method="upgrade" version="1.5" type="plugin" group="vmcustom" >
+    <name>SD VMCustom Dropdown</name>
+    <creationDate>December 23 2014</creationDate>
+    <author>Saurin Dashadia</author>
+    <authorUrl>http://saur.in/</authorUrl>
+    <copyright>Copyright (C) 20014 Saurin Dashadia. All rights reserved.</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <version>1.0.0-alpha</version>
+    <description>VertueMart custom field dropdown by - Saurin Dashadia(http://saur.in/) </description>
+
+    <files>
+        <filename plugin="SD_VMdropdown">SD_VMdropdown.php</filename>
+        <folder>SD_VMdropdown</folder>
+        <folder>language</folder>
+    </files>
+</extension>
